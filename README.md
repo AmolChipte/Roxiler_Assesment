@@ -1,12 +1,12 @@
 # Roxiler_Assesment
 Intern MERN Stack Coding Challenge Assesment by Roxiler System Ltd., Pune.
 
-** Required Softwares **
+**Required Softwares**
 1. Visual Studio Code
 2. MongoDBCompass
 3. node.js Framework
 
-** How To Run Project **
+**How To Run Project**
 1. Download Repository
 2. Open Downloaded Repository in Visual Studio Code
 3. Change Directory to Client Dir using 'cd client'
@@ -17,7 +17,7 @@ Intern MERN Stack Coding Challenge Assesment by Roxiler System Ltd., Pune.
 8. Run 'npm run dev' on Server Terminal to start Server
 9. Run 'npm start' on client Terminal to Start Client Page
 
-** How to Load Third party API Data to Database **
+**How to Load Third party API Data to Database**
 1. Direct to 'server/server.js'
 2. Remove Comment on line 30
 3. Update MongoDB URL in 'server/models/ProductTransaction.js
